@@ -1,7 +1,27 @@
+,part,metricName,thing+metricName,PassingTest?,TimeToPass,TimeToPass_minutes,retestSuccess?,MachineHealth?,disposition
+306,P1025598-01-U-ST15J0109167,Stator Temp Delta,P1025598-01-U:ST15J0109167+Stator Temp Delta,False,,,False,True,Machine Health Failure
+460,P1025598-00-U-ST14I0058850,6208 Cage Failure,P1025598-00-U:ST14I0058850+6208 Cage Failure,True,1 days 00:21:00,1461.0,False,False,Reworked Pass
+481,P1025598-00-U-ST14I0058850,A1 243 Tswp Coast Grms,P1025598-00-U:ST14I0058850+A1 243 Tswp Coast Grms,True,1 days 00:21:00,1461.0,False,True,Machine Health Failure
+482,P1025598-00-U-ST14I0058850,A1 243 Tswp Drive Grms-600Nm,P1025598-00-U:ST14I0058850+A1 243 Tswp Drive Grms-600Nm,True,1 days 00:21:00,1461.0,False,True,Machine Health Failure
+1800,P1025598-01-U-ST20F1087378,Intermediate Gear Clicking,P1025598-01-U:ST20F1087378+Intermediate Gear Clicking,False,,,False,False,Pending Rework / Unsuccessful Rework
+1807,P1025598-01-U-ST20F1087378,Intermediate Gear Clicking Negative,P1025598-01-U:ST20F1087378+Intermediate Gear Clicking Negative,False,,,False,False,Pending Rework / Unsuccessful Rework
+2241,P1025598-00-U-ST16I0124320,CH Inter Bearing Race Defect,P1025598-00-U:ST16I0124320+CH Inter Bearing Race Defect,True,0 days 00:24:00,24.0,True,False,Retest Success
+2858,P1025598-00-U-ST13B0009697,Intermediate Gear Clicking,P1025598-00-U:ST13B0009697+Intermediate Gear Clicking,False,,,False,False,Pending Rework / Unsuccessful Rework
+2865,P1025598-00-U-ST13B0009697,Intermediate Gear Clicking Negative,P1025598-00-U:ST13B0009697+Intermediate Gear Clicking Negative,False,,,False,False,Pending Rework / Unsuccessful Rework
+2961,P1025598-00-U-ST14L0073039,Output Gear Clicking Negative,P1025598-00-U:ST14L0073039+Output Gear Clicking Negative,False,,,False,False,Pending Rework / Unsuccessful Rework
+3945,P1025598-01-U-ST18H1058058,Motor 3rd Ord Avg,P1025598-01-U:ST18H1058058+Motor 3rd Ord Avg,True,0 days 00:20:00,20.0,True,False,Retest Success
+4681,P1025598-01-U-ST16C1004516R1,Motor 3rd Ord Avg,P1025598-01-U:ST16C1004516R1+Motor 3rd Ord Avg,True,0 days 04:37:00,277.0,False,False,Reworked Pass
+4717,P1025598-01-U-ST16C1004516R1,Input Gear Clicking Positive,P1025598-01-U:ST16C1004516R1+Input Gear Clicking Positive,True,0 days 04:37:00,277.0,False,False,Reworked Pass
+5180,P1025598-01-U-ST18K1062403,6208 Cage Failure,P1025598-01-U:ST18K1062403+6208 Cage Failure,True,0 days 01:32:00,92.0,False,False,Reworked Pass
+5716,P1025598-01-U-ST19E1068468R1,Intermediate Gear Clicking,P1025598-01-U:ST19E1068468R1+Intermediate Gear Clicking,False,,,False,False,Pending Rework / Unsuccessful Rework
+5723,P1025598-01-U-ST19E1068468R1,Intermediate Gear Clicking Negative,P1025598-01-U:ST19E1068468R1+Intermediate Gear Clicking Negative,False,,,False,False,Pending Rework / Unsuccessful Rework
 ,0
-FirstPasses,94
-DLE,7
-Retest Success,8
-ReworkedPasses,2
-Pending Rework / Unsuccessful Rework,0
-Machine Health,1
+FirstPasses,85.0
+DLE,6.0
+Retest Success,2.0
+Reworked Pass,3.0
+Pending Rework / Unsuccessful Rework,4.0
+Machine Health Failure,1.0
+firstPassTotal,94.0
+fallout,7.0
+FPY,0.9306930693069307
